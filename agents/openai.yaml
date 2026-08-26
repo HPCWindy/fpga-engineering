@@ -1,0 +1,4 @@
+interface:
+  display_name: "FPGA Engineering"
+  short_description: "Design and verify reliable FPGA RTL workflows"
+  default_prompt: "Use $fpga-engineering to design and verify this FPGA feature."

@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.out
+*.vcd
+*.fst
+*.jou
+*.log
+.Xil/
+build/
